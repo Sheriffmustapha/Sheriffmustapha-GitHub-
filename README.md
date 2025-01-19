@@ -2,7 +2,10 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  Include a 1280×640 image, course titlegit clone https://github.com/Asabeneh/30-Days-Of-Python.git
+cd 30-Days-Of-Python
+git remote set-url origin https://github.com/sheriffmustapha/30-Days-Python-Challenges.git
+git push -u origin main in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
